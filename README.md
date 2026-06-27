@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Amar Kumar Gupta!
 
-A **Full-Stack Developer** & **DevOps Enthusiast** who loves building scalable systems and playing with Cloud Native technologies.
+**Senior .NET Engineer | Cloud & DevOps Engineer | Building Production-Ready-System** who loves building scalable systems and playing with Cloud Native technologies.
 
 ---
 
