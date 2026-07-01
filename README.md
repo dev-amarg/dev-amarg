@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Amar Kumar Gupta
 
-**Senior .NET Engineer | Cloud & DevOps Engineer | Building Production-Ready Distributed Systems**
+**Senior .NET Engineer | MERN, MEAN, MEVN Full Stack Developer | Next.js, Nuxt.js | Cloud & DevOps Engineer | Building Production-Ready Distributed Systems**
 
 ---
 
